@@ -474,7 +474,8 @@ h6 {
 
 #hero:before {
   content: "";
-  background: rgba(6, 12, 34, 0.85);
+  background: rgba(30, 6, 34, 0.70);
+  /*background: rgba(35, 1, 40, 0.75);*/
   position: absolute;
   bottom: 0;
   top: 0;
